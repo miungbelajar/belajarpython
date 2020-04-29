@@ -1,0 +1,12 @@
+cerita= 'jalan-jalan lihat abang tukan bakso mari mari sini aku mau beli'
+cerita1= 'lagi makan bakso'
+cerita2= '-setelah kenyang lupa kalau lagi puasa'
+print (cerita)
+print (cerita1+cerita2)
+print(1*"wkwkwkland")
+
+aku = "kucin"
+
+cinta = aku[2:]
+
+print('bu'+cinta+' wkwkwk')
