@@ -1,0 +1,7 @@
+print ("aku mau makan bakso")
+print ("jangan dulu belum buka puasa")
+a=3
+b=3
+print ("hasil",a*b) #perkalian *
+print ("hasil",a/b) #pembagian /
+print ("hasil",a-b) #pengurangan
