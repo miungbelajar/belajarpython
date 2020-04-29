@@ -1,0 +1,8 @@
+integer=11000
+print ("harga",integer)  #integer
+string= "harga bakso"
+print ("jumlah",string) #string
+bool=True
+print(bool)
+bilangan_complex=10,5
+print ("bilangan",bilangan_complex) #bilangan complex
