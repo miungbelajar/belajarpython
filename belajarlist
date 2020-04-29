@@ -1,0 +1,6 @@
+angka=[1,2,3,4,5,6,7] #angka list
+angka1=[8,9,10,11,12,13,14] #angka list
+memanggil=angka[4] #mengakses data list
+memanggil= angka[1:6] #memotong list
+merubah=angka[3]=23 #merubah angka list
+print (angka+angka1)
