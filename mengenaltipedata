@@ -6,3 +6,24 @@ bool=True
 print(bool)
 bilangan_complex=10,5
 print ("bilangan",bilangan_complex) #bilangan complex
+#c++
+// #include <iostream>
+
+// using namespace std;
+
+// int main(){
+
+// 	// bilangan bulat
+// 	unsigned int a = 8; // 32-bit
+// 	long b = 9;
+// 	short c = 10;
+
+// 	// bilangan decimal
+// 	float d = 2.0;
+// 	double e = 5.5;
+
+// 	// character
+// 	char f = 'a'; //character 1-bit
+
+// 	// boolean
+// 	bool g = true; // true/false
