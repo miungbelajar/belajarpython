@@ -5,3 +5,35 @@ b=3
 print ("hasil",a*b) #perkalian *
 print ("hasil",a/b) #pembagian /
 print ("hasil",a-b) #pengurangan
+// #include <iostream>
+
+// int main(){
+
+// 	int k = 7;
+
+// 	std::cout << k << std::endl;
+// 	std::cin.get();
+// 	return 0;
+// }
+/ public class Main {
+
+//     public static void main(String[] args){
+
+//         // membuat variabel
+//         // tipe data int adalah tipe data anka yang tidak memiliki nilai , contoh bilangan int adalah 5
+//         int k = 5; 
+//         System.out.println("nilai k = " + k);
+
+//         k = 10;
+//         System.out.println("nilai k = " + k);
+
+//         // membuat deklarasi
+//         int u; // melakukan deklarasi
+
+//         u = 15;
+
+//         System.out.println("nilai u = " + u);
+
+
+//     }
+// }
