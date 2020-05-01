@@ -1,7 +1,7 @@
 kucing:10
 
 for k in range(0,15):
-    print (i)
+    print (k)
     if k is 10:
-        print('kucing didapatkan',i)
+        print('kucing didapatkan',k)
         break
