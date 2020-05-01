@@ -1,7 +1,10 @@
-kucing:10
+angka = 15;
 
-for k in range(0,15):
-    print (k)
-    if k is 10:
-        print('kucing didapatkan',k)
+for k in range(0,10):
+    print(k)
+
+    if k is angka:
+        print('kucing ditemukan',k)
         break
+else:
+    print('kucing tidak ditemukan')
