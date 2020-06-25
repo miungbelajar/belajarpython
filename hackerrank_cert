@@ -1,0 +1,15 @@
+#ayongoding
+"selamat bersenang-bersenang"
+def __init__ (self,speed,unit):
+	self.speed=speed
+	self.unit=unit
+def __str__(self):
+	belajar="Car with the maximun speed of {} {}"
+	return belajar.format(self.speed,self.unit)
+
+class boat
+def __init__(self.speed):
+	self.speed=speed
+def __str__(self):
+	belajar="Boat with the maximun speed of {} knots"
+	return belajar.format(self.speed)
